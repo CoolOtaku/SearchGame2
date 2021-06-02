@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_main"
+            android:icon="@drawable/mainicon"
+            android:title="@string/main" />
+        <item
+            android:id="@+id/nav_update"
+            android:icon="@drawable/update"
+            android:title="@string/menu_update" />
+        <item
+            android:id="@+id/nav_profile"
+            android:icon="@drawable/profileicon"
+            android:title="@string/menu_profile" />
+        <item
+            android:id="@+id/nav_messages"
+            android:icon="@drawable/messageicon"
+            android:title="@string/message" />
+        <item
+            android:id="@+id/nav_aboutsApp"
+            android:icon="@drawable/znakpitanna"
+            android:title="@string/abouts" />
+        <item
+            android:id="@+id/nav_contact"
+            android:icon="@drawable/developersicon"
+            android:title="@string/contact_to_my" />
+        <item
+            android:id="@+id/nav_appUpdate"
+            android:icon="@drawable/updateappicon"
+            android:title="@string/app_update" />
+    </group>
+
+    <item android:title="@string/strimers">
+        <menu>
+            <item
+                android:id="@+id/str1"
+                android:title="Падон"
+                android:icon="@drawable/streamicon"/>
+            <item
+                android:id="@+id/str2"
+                android:title="ALEX_D20"
+                android:icon="@drawable/streamicon"/>
+            <item
+                android:id="@+id/str3"
+                android:title="PLAYUA"
+                android:icon="@drawable/streamicon"/>
+            <item
+                android:id="@+id/str4"
+                android:title="STEPANXOLERA"
+                android:icon="@drawable/streamicon"/>
+            <item
+                android:id="@+id/str5"
+                android:title="Український Денеленд"
+                android:icon="@drawable/streamicon"/>
+            <item
+                android:id="@+id/str6"
+                android:title="OLDBOI[UA]"
+                android:icon="@drawable/streamicon"/>
+            <item
+                android:id="@+id/str7"
+                android:title="DEAD_SHOT"
+                android:icon="@drawable/streamicon"/>
+        </menu>
+    </item>
+
+</menu>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="arrGrupe">
+        <item>Адміністратор</item>
+        <item>Головний редактор</item>
+        <item>Журналіст</item>
+        <item>Юзер</item>
+        <item>Гість</item>
+        <item>Розробник</item>
+    </string-array>
+
+    <string-array name="UrlStrimers">
+        <item>https://www.twitch.tv/pad0n/</item>
+        <item>https://www.twitch.tv/alex_d20/</item>
+        <item>https://www.twitch.tv/playua/</item>
+        <item>https://www.twitch.tv/stepanxolera/</item>
+        <item>https://www.twitch.tv/videos/545272886</item>
+        <item>https://www.twitch.tv/oldboiua/</item>
+        <item>https://www.twitch.tv/dead_shot_0/</item>
+    </string-array>
+</resources>

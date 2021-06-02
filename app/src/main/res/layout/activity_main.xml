@@ -1,0 +1,316 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.drawerlayout.widget.DrawerLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/drawer_layout"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:fitsSystemWindows="true"
+    >
+
+    <androidx.constraintlayout.widget.ConstraintLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@drawable/bgtop"
+        tools:context=".Activity.MainActivity">
+
+        <ScrollView
+            android:id="@+id/scrollView2"
+            android:layout_width="0dp"
+            android:layout_height="0dp"
+            android:layout_centerHorizontal="true"
+            android:scrollbarSize="0dp"
+            android:scrollbarThumbHorizontal="@null"
+            android:scrollbarThumbVertical="@null"
+            android:scrollbarTrackVertical="@null"
+            android:scrollbars="none"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintHorizontal_bias="0.0"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent"
+            app:layout_constraintVertical_bias="0.0">
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical"
+                android:paddingTop="60dp">
+
+                <TableRow
+                    android:id="@+id/Intem"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:layout_marginStart="8dp"
+                    android:layout_marginTop="20pt"
+                    android:layout_marginEnd="8dp"
+                    android:background="@drawable/style_button">
+
+                    <ImageView
+                        android:layout_width="60dp"
+                        android:layout_height="60dp"
+                        android:layout_marginLeft="5pt"
+                        android:src="@drawable/mouseicon" />
+
+                    <View
+                        android:layout_width="1dp"
+                        android:layout_height="50sp"
+                        android:layout_gravity="center"
+                        android:layout_marginLeft="2.5pt"
+                        android:layout_marginRight="2.5pt"
+                        android:background="@color/colorBlue" />
+
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent"
+                        android:orientation="vertical">
+
+                        <TextView
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:text="PC"
+                            style="@style/Title" />
+
+                        <TextView
+                            android:layout_width="match_parent"
+                            android:layout_height="match_parent"
+                            android:text="@string/view_game"
+                            style="@style/SubTitle" />
+                    </LinearLayout>
+
+                </TableRow>
+
+                <TableRow
+                    android:id="@+id/Intem_1"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:layout_marginStart="8dp"
+                    android:layout_marginTop="20pt"
+                    android:layout_marginEnd="8dp"
+                    android:background="@drawable/style_button">
+
+                    <ImageView
+                        android:layout_width="60dp"
+                        android:layout_height="60dp"
+                        android:layout_marginLeft="5pt"
+                        android:src="@drawable/ps4icon" />
+
+                    <View
+                        android:layout_width="1dp"
+                        android:layout_height="50sp"
+                        android:layout_gravity="center"
+                        android:layout_marginLeft="2.5pt"
+                        android:layout_marginRight="2.5pt"
+                        android:background="@color/colorBlue" />
+
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent"
+                        android:orientation="vertical">
+
+                        <TextView
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:text="PS4"
+                            style="@style/Title" />
+
+                        <TextView
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:text="@string/view_game"
+                            style="@style/SubTitle" />
+                    </LinearLayout>
+
+                </TableRow>
+
+                <TableRow
+                    android:id="@+id/Intem_2"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:layout_marginStart="8dp"
+                    android:layout_marginTop="20pt"
+                    android:layout_marginEnd="8dp"
+                    android:background="@drawable/style_button">
+
+                    <ImageView
+                        android:layout_width="60dp"
+                        android:layout_height="60dp"
+                        android:layout_marginLeft="5pt"
+                        android:src="@drawable/xboxicon" />
+
+                    <View
+                        android:layout_width="1dp"
+                        android:layout_height="50sp"
+                        android:layout_gravity="center"
+                        android:layout_marginLeft="2.5pt"
+                        android:layout_marginRight="2.5pt"
+                        android:background="@color/colorBlue" />
+
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent"
+                        android:orientation="vertical">
+
+                        <TextView
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:text="XBOX"
+                            style="@style/Title" />
+
+                        <TextView
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:text="@string/view_game"
+                            style="@style/SubTitle" />
+                    </LinearLayout>
+
+                </TableRow>
+
+                <TableRow
+                    android:id="@+id/Intem_3"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:layout_marginStart="8dp"
+                    android:layout_marginTop="20pt"
+                    android:layout_marginEnd="8dp"
+                    android:background="@drawable/style_button">
+
+                    <ImageView
+                        android:layout_width="60dp"
+                        android:layout_height="60dp"
+                        android:layout_marginLeft="5pt"
+                        android:src="@drawable/newsicon" />
+
+                    <View
+                        android:layout_width="1dp"
+                        android:layout_height="50sp"
+                        android:layout_gravity="center"
+                        android:layout_marginLeft="2.5pt"
+                        android:layout_marginRight="2.5pt"
+                        android:background="@color/colorBlue" />
+
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent"
+                        android:orientation="vertical">
+
+                        <TextView
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:text="@string/news"
+                            style="@style/Title" />
+
+                    </LinearLayout>
+
+                </TableRow>
+
+                <TableRow
+                    android:id="@+id/Intem_4"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:layout_marginStart="8dp"
+                    android:layout_marginTop="20pt"
+                    android:layout_marginEnd="8dp"
+                    android:background="@drawable/style_button">
+
+                    <ImageView
+                        android:layout_width="60dp"
+                        android:layout_height="60dp"
+                        android:layout_marginLeft="5pt"
+                        android:src="@drawable/chempionsicon" />
+
+                    <View
+                        android:layout_width="1dp"
+                        android:layout_height="50sp"
+                        android:layout_gravity="center"
+                        android:layout_marginLeft="2.5pt"
+                        android:layout_marginRight="2.5pt"
+                        android:background="@color/colorBlue" />
+
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent"
+                        android:orientation="vertical">
+
+                        <TextView
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:text="@string/championships"
+                            style="@style/Title" />
+
+                    </LinearLayout>
+
+                </TableRow>
+
+                <TableRow
+                    android:id="@+id/Intem_5"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:layout_marginStart="8dp"
+                    android:layout_marginTop="20pt"
+                    android:layout_marginEnd="8dp"
+                    android:layout_marginBottom="20pt"
+                    android:background="@drawable/style_button">
+
+                    <ImageView
+                        android:layout_width="60dp"
+                        android:layout_height="60dp"
+                        android:layout_marginLeft="5pt"
+                        android:src="@drawable/streamicon" />
+
+                    <View
+                        android:layout_width="1dp"
+                        android:layout_height="50sp"
+                        android:layout_gravity="center"
+                        android:layout_marginLeft="2.5pt"
+                        android:layout_marginRight="2.5pt"
+                        android:background="@color/colorBlue" />
+
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent"
+                        android:orientation="vertical">
+
+                        <TextView
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:text="@string/streams"
+                            style="@style/Title" />
+
+                    </LinearLayout>
+
+                </TableRow>
+
+            </LinearLayout>
+        </ScrollView>
+
+        <TableRow
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:background="@color/colorMenu"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent">
+
+            <ImageView
+                android:id="@+id/logo"
+                android:layout_width="wrap_content"
+                android:layout_height="60dp"
+                android:layout_marginLeft="8dp"
+                android:src="@drawable/logo" />
+        </TableRow>
+
+    </androidx.constraintlayout.widget.ConstraintLayout>
+
+    <com.google.android.material.navigation.NavigationView
+        android:id="@+id/nav_view"
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent"
+        android:layout_gravity="start"
+        android:background="@color/colorMenu"
+        android:fitsSystemWindows="true"
+        app:headerLayout="@layout/menu_header"
+        app:itemTextColor="@color/colorWhite"
+        app:menu="@menu/menu" />
+
+</androidx.drawerlayout.widget.DrawerLayout>

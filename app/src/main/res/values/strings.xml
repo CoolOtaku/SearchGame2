@@ -1,0 +1,235 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Search Games</string>
+
+    <string name="view_game">Переглянути ігри</string>
+
+    <string name="filter">ФІЛЬТРУВАТИ</string>
+
+    <string name="input_name">Введіть Назву</string>
+
+    <string name="found">ЗНАЙДЕНО</string>
+    <string name="materials">МАТЕРІАЛИ</string>
+
+    <string name="game">Назва ігри</string>
+    <string name="information">Інформація</string>
+
+    <string name="processor">Процесор</string>
+    <string name="videocard">Відео карта</string>
+    <string name="video_ram">Відео память</string>
+    <string name="hhd_ssd">Внутрішня память</string>
+    <string name="ganre">Жанр</string>
+    <string name="cores">Ядра</string>
+    <string name="free">Частота</string>
+    <string name="ram">Оперативна пямять</string>
+
+    <string name="gb">Гігабайт</string>
+    <string name="gg">Гігагерц</string>
+    <string name="mb">Мегабайт</string>
+    <string name="year">Рік випуску</string>
+    <string name="gameplay">Геймплей</string>
+    <string name="tlayer">Трейлер</string>
+    <string name="reviews">Коментарі</string>
+    <string name="add_reviews">Додати коментар</string>
+    <string name="added">Добавлено!</string>
+    <string name="rev_name">Ім`я *</string>
+    <string name="rev_mail">E-Mail *</string>
+
+    <string name="price">Ціна</string>
+    <string name="between">Між</string>
+    <string name="sorts">Сортування</string>
+    <string name="sorts_name">По назві</string>
+    <string name="sorts_year">По рокам</string>
+    <string name="sorts_type">Тип сортування</string>
+    <string name="sorts_type_desc">По зпаданню</string>
+    <string name="sorts_type_asc">По зростанню</string>
+
+    <string name="update">ОНОВЛЕННЯ!</string>
+    <string name="error">ВИБАЧТЕ ВИНИКЛА ПОМИЛКА</string>
+    <string name="errorComments">Тут можливо немає коментарів !</string>
+    <string name="send">ВІДПАВИТИ ✉</string>
+    <string name="sends">ВІДПРАВЛЕНО!</string>
+    <string name="deletes">ВИДАЛЕННО!</string>
+
+    <string name="developer">Розробник</string>
+    <string name="publishing">Видавництво</string>
+
+    <string name="system_req">Системні вимоги для ПК</string>
+    <string name="steam">Переглянути в Steam</string>
+    <string name="news">АНОНСИ</string>
+
+    <string name="error_connect">Виникла помилка, будьласка перевірьте зєднання до інтернету !</string>
+    <string name="update_ok">ОНОВИТИ</string>
+    <string name="main">Головна</string>
+
+    <string name="championships">ЧЕМПІОНАТИ</string>
+    <string name="streams">СТРІМИ</string>
+    <string name="from">Від</string>
+    <string name="text">Текст *</string>
+
+    <string name="menu_update">Оновити дані</string>
+    <string name="menu_profile">Профіль</string>
+    <string name="app_update">Оновити додаток</string>
+
+    <string name="strimers">Стрімери</string>
+    <string name="comunicate">Звязатися з нами</string>
+    <string name="addSelected">Добавити в обране</string>
+    <string name="not_found">Нічого не знайдено!</string>
+
+    <string name="exit">ВХІД У ПРОФІЛЬ</string>
+    <string name="exit2">Вийти із профілю</string>
+    <string name="printEmailAndPassword">Введіть свій Email або Логін і Пароль</string>
+    <string name="password">Пароль *</string>
+    <string name="forgotpassword">Забули пароль ?</string>
+    <string name="register">За реєструватися</string>
+    <string name="user">Користувач</string>
+    <string name="grup">Група</string>
+    <string name="setsComents">Коментарів</string>
+    <string name="editProfile">Редагувати профіль</string>
+    <string name="editsProfile">Редагування профілю:</string>
+    <string name="full_name">Повне ім`я</string>
+    <string name="red_date">Дата реєстрації</string>
+    <string name="last_date">Останній раз заходив</string>
+    <string name="myself">Про себе</string>
+    <string name="you_not_right">Ви не можете виконувати цю дію!</string>
+    <string name="your_name">Ваше ім`я</string>
+    <string name="your_email">Ваш E-Mail</string>
+    <string name="save">Зберегти</string>
+    <string name="saved">Збережено!</string>
+    <string name="dont_get_letter">Не отримувати листи від інших</string>
+    <string name="unsubscribe_from_materials">Відписатись від підписаних матеріалів</string>
+    <string name="city">Місто</string>
+    <string name="old_password">Старий пароль</string>
+    <string name="new_password">Новий пароль</string>
+    <string name="repeat_password">Повторіть пароль</string>
+    <string name="banes_to_ip">Блокування по IP (Ваш IP: </string>
+    <string name="warning_to_ip">
+        * Увага! Будьте пильні при зміні цього параметра. Доступ до вашого облікового запису буде доступний
+        тільки з того IP-адреси або підмережі, який Ви вкажете. Ви можете вказати декілька IP адрес, за однією адресою на кожен рядок.
+        Приклад: 192.48.25.71 или 129.42.*.*
+    </string>
+    <string name="avatar">Аватар:</string>
+    <string name="selectFile">Виберіть файл</string>
+    <string name="is_not_select_file">Файл не вибраний</string>
+    <string name="delete_avatar">Видалити аватар</string>
+    <string name="singature">Підпис</string>
+    <string name="size_image_big">Розмір Картинки за надто великий!</string>
+    <string name="not_correct_email">Не коректний Email!</string>
+    <string name="print_old_password">Будьласка введіть старий пароль!</string>
+    <string name="not_found_file">Не найденю файл!</string>
+
+    <string name="graphics">Графіка:</string>
+    <string name="gameplays">Геймплей:</string>
+    <string name="voice">Озвучка:</string>
+    <string name="atmosphere">Атмосфера:</string>
+    <string name="the_plot">Сюжет:</string>
+    <string name="optimization">Оптимізація:</string>
+
+    <string name="clamp">Для активації зажміт кнопку!</string>
+    <string name="golos">Ви вже голосували!</string>
+    <string name="not_strimers">Можливо на даний момент не проводяться стріми</string>
+
+    <string name="yes">Так</string>
+    <string name="no">Ні</string>
+    <string name="updatesApp">Оновлення додатка</string>
+    <string name="is_new_update_app">Вийшло нове оновлення додатка, хочете його установити ?</string>
+    <string name="go_to_our_site">Перейти на наш сайт</string>
+    <string name="specify_name">Вкажіть ім`я!</string>
+    <string name="have_not_forgotten_text">Не забули текст ?</string>
+    <string name="contact_to_my">Зв`язатися з нами</string>
+    <string name="our_social_networck">НАШІ СОЦ-МЕРЕЖІ</string>
+    <string name="developer_app">Розробника додатка:</string>
+    <string name="developer_site">Розробника сайта:</string>
+    <string name="count_publishing">Публікацій</string>
+    <string name="anti_spam">Захист від спаму!</string>
+    <string name="sendEmail">Надіслати E-MAIL</string>
+    <string name="sendPM">Надіслати ПП</string>
+    <string name="inputMessage">Вхідні</string>
+    <string name="sendMessage">Відправлені</string>
+    <string name="delete">Видалення</string>
+    <string name="delete_comments">Ви дійсно хочете видалити цей коментар ?</string>
+    <string name="message">Повідомлення</string>
+    <string name="new_message">У вас нове повідомлення!</string>
+    <string name="error_messages">Не вдалося знайти ваші повідомлення, можливо у вас немає повідомлень!</string>
+    <string name="komu">Кому:</string>
+    <string name="theme">Тема:</string>
+    <string name="saved_messages_for_send">Зберегти повідомлення в папці "Відправлені"</string>
+    <string name="input_theme">Вкажіть тему!</string>
+    <string name="please_go_profile">Будьласка увійдіть в профіль!</string>
+    <string name="delete_message">Ви дійсно хочете видалити це повідомлення ?</string>
+    <string name="delete_selected">Ви дійсно хочете видалити цю гру із обраного ?</string>
+
+    <string name="abouts">Про додаток</string>
+    <string name="aboutsApp">
+        Додаток створений особою під псевдонімом Cool-Otaku повне ім’я: Федорів
+Назарій Петрович, цей додаток призначений для пошуку ігор, і їх перегляду.
+Також можна ділитися враженнями про яку небудь гру, переглядати і
+замовляти їх на ігровій платформі. Зазвичай платформа Steam, але може і
+зустрітися інша.\n
+В додатку присутня система акаунтів, які синхронізують із нашим сайтом
+Search-Games.online.\n
+Тут ви можете також дивитися любимих стрімерів та чемпіонати по різних
+іграх!\n
+Для зручності та й за головною задумкою, в додатку присутня система
+фільтрації по системних вимогах, жанрах на ваш смак, та по ціні і роках.
+Якщо хочете щось зіграти, але не знаєте, яка гра вам підійде ?
+Приєднуйтесь до нас, і знайдіть гру на ваш смак !
+\n\n
+Довідник для користувача:
+В розділі Фільтрувати можна застосувати фільтр ігр по жанрах, потужності
+процесора і відеокартах, ціні, оперативній пам’яті тощо. Щоб викликати список
+жанрів, процесорів, відеокарт потрібно зажати на відповідній кнопці. Також в
+фільтрі ви можете сортувати ігри - по назві та рокам, як по зростанню, так і по
+спаданню.\n
+Фільтрація ігор по роках і ціні виставляється інтервалом з якого по яке
+значення.\n
+Якщо ви хочете знайти гру по назві, але не пам’ятаєте її назву, тоді просто
+введіть якусь частину назви, якесь слово але з оригіналу.
+Для написання коментаря не обов’язково заходити в профіль, можна просто
+ввести свою електронну адресу та ім’я.
+Якщо ви хочете придбати гру, тоді на сторінці із грою клацніть на кнопку:
+Придбати в Steam.\n
+І також ви можете добавити гру в обране, для того щоб не забути про неї.
+Ігри які ви добавили до обраного, можна переглянути у вашому профілю.
+\n
+Щоб зареєструвати свій профіль, вам необхідно зайти на наш сайт і там
+заповнити всі необхідні поля форми. Для входу в акаунт потрібно написати свій
+логін або адрес електронної пошти та пароль.
+Ви можете міняти свою профільну картинку (аватарку) як через додаток так
+і сайт, обмеження для картинки – розмір не більше одного мегабайта.
+Коли ви зареєстровані і ввійшли у профіль, ви можете залишати коментарі в
+іграх від свого імені не вводячи поля ім’я та Email в формі для написання
+коментарів.\n
+Також ви можете оцінювати ігри від свого імені тільки один раз для цієї гри
+та категорії по якій оцінювали, оцінка ставиться від одного до десяти балів.
+Якщо ви хочете переглянути профіль користувача, який написав коментар,
+просто нажміть на його імені в коментарі. Так ви зможете звязатися з ним
+написати лист на електронну пошту або приватне повідомлення.
+Майже на кожній активності присутня навігація бокового меню, при
+допомозі меню ви зможете переходити на спеціальні активності з любої точки
+додатка. Щоб відкрити бокове меню протягніть пальцем від лівого краю екрана на
+право, або натисніть на логотип додатка.
+Також слід час від часу оновляти додаток, локальна база даних зроблена для
+оптимізації додатка, і швидшого функціоналу його. На нашому сайті ви можете
+скачати останню версію додатка.
+Якщо в вас раптом перестав працювати додаток, або вилітає системи? Не
+хвилюйтесь, просто зайдіть в налаштування телефона, далі на вкладку додатки і
+знайдіть там наш додаток, після цього очистіть пам’ять додатка. Якщо вам це не
+допомогло, значить вийшло оновлення, просто ще раз завантажте додаток із тої
+платформи де ви його скачали.
+Примітка: (ви можете завантажити додаток із нашого сайту Search-
+Games.online).\n
+В додатку присутня система перевірки на оновлення, і рекомендується
+встановлювати нові версії додатка. Бо в нових версія щось змінюється на краще,
+або простіше стає користуватись додатком або виправляються помилки і баги.
+Якщо у вас виникли якісь проблеми або ви знайшли якусь помилку в
+додатку, просимо звернутися до нас. Для цього перейдіть в меню по пункту
+«Зв’язатися з нами» і напишіть нам лист від свого імені та адреси електронної
+пошти.\n
+Більшість активностей не працюють без підключення до інтернету, тому
+може з’являтися надпис по відсутність підключення до інтернету. Багато
+картинок, які відображаються на сторінках з іграми завантажуються в кеш
+пам’ять. Тому якщо не вистачає пам’яті на вашому пристрої, очищайте кеш
+пам’ять.\n
+    </string>
+</resources>
