@@ -1,8 +1,8 @@
-# Search Games
-
 <p align="center"><img width="128" height="128" src="app/src/main/res/drawable/avatar.png" /></p>
+<h1 align="center">Search Games</h1>
 
-## EN
+## Description
+<b>EN:</b>
 
 For full operation, the application needs to register the API key for YouTube and replace it in the project file ["/app/src/main/java/com/example/searchgame2/Activity/Full_StoriActivity.java"](/app/src/main/java/com/example/searchgame2/Activity/Full_StoriActivity.java) line №94 "public static final String key =" [ YOUR_YouTube_API_KEY] ";".
  
@@ -17,20 +17,7 @@ If you want to see the profile of the user who wrote the comment, just click on 
 
 The application has an update check system, and it is recommended to install new versions of the application. Because in the new version something changes for the better, or it becomes easier to use the application or bugs and bugs are fixed. If you have any problems or you find an error in the application, please contact us. To do this, go to the "Contact Us" menu and write us an email on your behalf and email address. Most activities do not work without an Internet connection, so you may see that you do not have an Internet connection. Many of the images displayed on game pages are cached. Therefore, if there is not enough memory on your device, clear the cache.
 
-### Screenshots of the application:
-
-<p>
-  <img src="screens/sc1.png" height="400px"/>
-  <img src="screens/sc2.png" height="400px"/>
-  <img src="screens/sc3.png" height="400px"/>
-  <img src="screens/sc4.png" height="400px"/>
-  <img src="screens/sc5.png" height="400px"/>
-  <img src="screens/sc6.png" height="400px"/>
-  <img src="screens/sc7.png" height="400px"/>
-  <img src="screens/sc8.png" height="400px"/>
-</p>
- 
-## UA
+<b>UA:</b>
 
 Для повноцінної роботи, додатка потрібно зареєструвати ключ API для YouTube та замінити в файлі проекту ["/app/src/main/java/com/example/searchgame2/Activity/Full_StoriActivity.java"](/app/src/main/java/com/example/searchgame2/Activity/Full_StoriActivity.java) рядок №94 "public static final String key="[YOUR_YouTube_API_KEY]";".
  
@@ -45,8 +32,8 @@ The application has an update check system, and it is recommended to install new
 
 В додатку присутня система перевірки на оновлення, і рекомендується встановлювати нові версії додатка. Бо в нових версія щось змінюється на краще, або простіше стає користуватись додатком або виправляються помилки і баги. Якщо у вас виникли якісь проблеми або ви знайшли якусь помилку в додатку, просимо звернутися до нас. Для цього перейдіть в меню по пункту «Зв’язатися з нами» і напишіть нам лист від свого імені та адреси електронної пошти. Більшість активностей не працюють без підключення до інтернету, тому може з’являтися надпис по відсутність підключення до інтернету. Багато картинок, які відображаються на сторінках з іграми завантажуються в кеш пам’ять. Тому якщо не вистачає пам’яті на вашому пристрої, очищайте кеш пам’ять.
 
-### Скріншоти додатка:
-
+#
+## Screenshots
 <p>
   <img src="screens/sc1.png" height="400px"/>
   <img src="screens/sc2.png" height="400px"/>
@@ -58,9 +45,17 @@ The application has an update check system, and it is recommended to install new
   <img src="screens/sc8.png" height="400px"/>
 </p>
 
-## Others
+#
 
-### License
+## Technologies used
+
+- General authorization system (web and mobile application)
+- Creating my own API (without JSON)
+- Working with the Twitch API
+
+#
+
+## License
 
 ```
 © 2020, CoolOtaku (ericspz531@gmail.com)
