@@ -46,17 +46,18 @@ The application has an update check system, and it is recommended to install new
 </p>
 
 #
-
 ## Technologies used
-
+<b>EN:</b>
 - General authorization system (web and mobile application)
 - Creating my own API (without JSON)
 - Working with the Twitch API
 
+<b>UA:</b>
+- Система загальної авторизації (веб і мобільний додаток)
+- Створення власного API (без JSON)
+- Робота з Twitch API
 #
-
 ## License
-
 ```
 © 2020, CoolOtaku (ericspz531@gmail.com)
 ```
