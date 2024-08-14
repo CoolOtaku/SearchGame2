@@ -50,13 +50,13 @@ The application has an update check system, and it is recommended to install new
 <b>EN:</b>
 - General authorization system (web and mobile application)
 - Creating my own **API** (without **JSON**)
-- Working with the local database **SQLiteOpenHelper**
-- Synchronization of the local database (**SQLiteOpenHelper**) with the global database (**MySQL**)
-- Working with the **Twitch API**
+- Working with the local database [**SQLiteOpenHelper**](https://developer.android.com/reference/android/database/sqlite/SQLiteOpenHelper)
+- Synchronization of the local database ([**SQLiteOpenHelper**](https://developer.android.com/reference/android/database/sqlite/SQLiteOpenHelper)) with the global database (**MySQL**)
+- Working with the [**Twitch API**](https://dev.twitch.tv/docs/api/)
 - Work with **YouTubeAndroidPlayerApi**
 - Image caching and rendering via [**Picasso**](https://square.github.io/picasso/)
-- Using the element interface to display a list of elements from an array (**RecyclerView**)
-- Using an interface element to update data on the page (**SwipeRefreshLayout**)
+- Using the element interface to display a list of elements from an array ([**RecyclerView**](https://developer.android.com/reference/androidx/recyclerview/widget/RecyclerView))
+- Using an interface element to update data on the page ([**SwipeRefreshLayout**](https://developer.android.com/jetpack/androidx/releases/swiperefreshlayout))
 - Using an interface element for more convenient information filtering ([**simple-range-view**](https://github.com/bendikv/simple-range-view))
 - A convenient system for filtering and searching for information
 - Ability to update the application from the server
@@ -64,13 +64,13 @@ The application has an update check system, and it is recommended to install new
 <b>UA:</b>
 - Система загальної авторизації (веб і мобільний додаток)
 - Створення власного **API** (без **JSON**)
-- Робота з локальною базою даних **SQLiteOpenHelper**
-- Синхронізація локальної бази даних (**SQLiteOpenHelper**) з глобальною (**MySQL**)
-- Робота з **Twitch API**
+- Робота з локальною базою даних [**SQLiteOpenHelper**](https://developer.android.com/reference/android/database/sqlite/SQLiteOpenHelper)
+- Синхронізація локальної бази даних ([**SQLiteOpenHelper**](https://developer.android.com/reference/android/database/sqlite/SQLiteOpenHelper)) з глобальною (**MySQL**)
+- Робота з [**Twitch API**](https://dev.twitch.tv/docs/api/)
 - Робота з **YouTubeAndroidPlayerApi**
 - Кешування та відображення зображення через [**Picasso**](https://square.github.io/picasso/)
-- Використання елемента інтерфейсу для відображення списку елементів з масиву (**RecyclerView**)
-- Використання елемента інтерфейсу для оновлення даних на сторінці (**SwipeRefreshLayout**)
+- Використання елемента інтерфейсу для відображення списку елементів з масиву ([**RecyclerView**](https://developer.android.com/reference/androidx/recyclerview/widget/RecyclerView))
+- Використання елемента інтерфейсу для оновлення даних на сторінці ([**SwipeRefreshLayout**](https://developer.android.com/jetpack/androidx/releases/swiperefreshlayout))
 - Використання елемента інтерфейсу для зручнішої фільтрації інформації ([**simple-range-view**](https://github.com/bendikv/simple-range-view))
 - Зручна система фільтрації та пошуку інформації
 - Можливість оновлення додатка з сервера
